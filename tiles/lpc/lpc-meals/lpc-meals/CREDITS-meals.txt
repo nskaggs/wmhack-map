@@ -1,0 +1,123 @@
+"[LPC] Meals" by bluecarrot16, Daniel Eddeland (daneeklu), Joshua Taylor, and Richard Kettering (Jetrel), commissioned by castelonia.
+https://opengameart.org/content/lpc-meals
+
+
+[LPC] Farming tilesets, magic animations and UI elements
+DE = Daniel Eddeland (Daneeklu)
+CC-BY-SA 3.0 / GPL 3.0
+https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
+
+Fruit and Veggie Inventory
+JT = Joshua Taylor
+CC-BY-SA 3.0 / GPL 3.0 
+https://opengameart.org/content/fruit-and-veggie-inventory
+
+RPG item set
+RK = Richard Kettering (Jetrel)
+CC0
+https://opengameart.org/content/rpg-item-set
+
+Icons: Food.
+TKP = thekingphoenix
+CC0
+http://opengameart.org/content/icons-food
+
+## LICENSES
+
+All items edited by bluecarrot16. Original authors listed, otherwise drawn from scratch by bluecarrot16. 
+
+- If you use this entire set, the license is CC-BY-SA 3.0+ or GPL v3.0+. 
+- All individual items can be used under either of those licenses (CC-BY-SA 3.0+ or GPL 3.0+). 
+- Some items can also be used under other licenses, according to the table below.
+- For items with a CC-BY, CC-BY-SA, OGA-BY, or GPL license, you must credit the original author(s) as well as bluecarrot16, link to the original submissions (above) and include a link back to this page <https://opengameart.org/content/lpc-food>.
+- For items licensed CC0, credit and link back to this page is appreciated, but not required. 
+
+## PLATES
+
+Plates by RK, edited by bluecarrot16.
+
+## BASES
+
+|      Item     | Credits | Licenses |
+|---------------|---------|----------|
+| Pie           |         | CC0      |
+| Salad (1)     |         | CC0      |
+| Salad (2)     | RK      | CC0      |
+| Quiche        |         | CC0      |
+| Soup, red     |         | CC0      |
+| Soup, yellow  |         | CC0      |
+| Soup, green   |         | CC0      |
+| Soup, brown   |         | CC0      |
+| Tortilla      |         | CC0      |
+| Barley        |         | CC0      |
+| Rice          |         | CC0      |
+| Noodles (1)   |         | CC0      |
+| Noodles (2)   |         | CC0      |
+| Hamburger bun |         | CC0      |
+| Kaiser bun    |         | CC0      |
+| Sliced bread  | RK      | CC0      |
+
+## ITEMS
+
+For each item, there are multiple options; top-to-bottom, these are:
+- Raw
+- 1/3 of plate, top-left
+- 1/3 of plate, top-right
+- 1/3 of plate, bottom
+- Small topping
+- Large topping
+- Sandwich bottom layer
+- Sandwich middle layer
+- Sandwich top layer
+- Skewer (1)
+- Skewer (3)
+- Skewer, back
+- Skewer, middle
+- Skewer, front
+
+
+|            Item           | Credits | License(s) |
+|---------------------------|---------|------------|
+| Acorn squash              |         | CC0        |
+| Carrot                    | JT      |            |
+| Parsnip                   | JT      |            |
+| Potato, baked             | JT/DE   |            |
+| Potato, diced             | JT/DE   |            |
+| Potato, fingerling        | JT/DE   |            |
+| Sweet Potato, baked       | JT/DE   |            |
+| Sweet Potato, diced       | JT/DE   |            |
+| Sweet Potato, fingerling  | JT/DE   |            |
+| Purple Potato, baked      | JT/DE   |            |
+| Purple Potato, diced      | JT/DE   |            |
+| Purple Potato, fingerling | JT/DE   |            |
+| Tomato                    | DE      |            |
+| Cornmeal                  | JT      |            |
+| Corncob                   | JT      |            |
+| White onion               |         | CC0        |
+| Red onion                 |         | CC0        |
+| Purple onion              |         | CC0        |
+| Green bell pepper         | JT      |            |
+| Red bell pepper           | JT      |            |
+| Orange bell pepper        | JT      |            |
+| Yellow bell pepper        | JT      |            |
+| Purple cabbage            |         | CC0        |
+| Brussels sprouts          |         | CC0        |
+| Cauliflower               | JT      |            |
+| Broccoli                  | JT      |            |
+| Celery                    |         | CC0        |
+| Yellow squash             | DE      |            |
+| Zucchini                  | DE      |            |
+| Raddish                   | JT      |            |
+| Turnip                    | JT      |            |
+| Iceberg lettuce           | RK      | CC0        |
+| Rib roast                 |         | CC0        |
+| Drumstick                 | RK      |            |
+| Sausage                   | RK      |            |
+| Bacon                     |         | CC0        |
+| Lamb chop                 |         | CC0        |
+| Meatball                  |         | CC0        |
+| Burger patty              |         | CC0        |
+| Pork chop                 |         | CC0        |
+| Chicken breast            | DE      |            |
+| Ribeye steak              | DE      |            |
+

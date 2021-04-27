@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="2020.12.18" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="1">
+ <tileset firstgid="1" name="dishes" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <image source="meals.png" trans="ff00ff" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1025" name="guide" tilewidth="32" tileheight="32" tilecount="4" columns="4">
+  <image source="guide.png" trans="ff00ff" width="128" height="32"/>
+ </tileset>
+ <layer id="1" name="Plate" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjY2BgYBtAzIBHjpkIPJBuh7mfEoDLDLZhIs+MQ56ZSvLUAMjpjRL9lKQHaqUnUgEA1wICUw==
+  </data>
+ </layer>
+ <layer id="5" name="Base" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJy9kc0KgCAQhL116x0UJSIKyaPv/17tgodBJvCHGvgQvrnsusaM5RJOwQ0ShVvwFRYIhK28h7ALqZNcsUzyR1yjewubE10mPbpEenSW9OgC6dGtpEcXSc/cTHQfNmdL9C91356bYHx52R2+zgN9swvd
+  </data>
+ </layer>
+ <layer id="2" name="1-TopLeft-SkewerBack" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJy90E8KgkAUBvDXeJMWHaO8iqKihdAyAj1P2xZBRH8WCTWti+gG0Sn6HjOSGc4IRR/8mHnPEZ8TEJEHPmQQQFcQRVgnEEMCQxiR6uekctHrESSkei2VucOjsufsxes5vzfW+z76A3CFmqmnZ+E5bnDW5656PYh3suZUU1T6PMO6Q7SBLexgAZlDNHXU8xnqOaxgCR76ISQQO/STRC17piSWOnTMdSHMtbTUrqX2yVznZE/asP82fFdSfM7UNnyX/L/SfrQx/O36nf8jT2teNqU=
+  </data>
+ </layer>
+ <layer id="3" name="2-TopRight-SkewerMiddle" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJylkz0OgkAQRmex8TzWFhR6DeUqKBIriWIjNpzFnsRCLYziHTiBbwNbyYYVXvIy32TZH5ZwEJEt5rjCuScSUTOMMcQEj824HjvhWH7ZYYWXRhdi9pt59dopBuQFLr26j5vzhZb5gRKZKMfNwOfZqaqr5k594RtL/GA4ErlRr7ghR7jGJ/0DC1XPK//Yt4uso3chsWRDodqzwVft2RX9zdqyIbVkw9mSNfuOfgjmrtrO5IK+S/2+Vc/5+h/Ipd+dD+ULhkUqkg==
+  </data>
+ </layer>
+ <layer id="7" name="3-Middle-SkewerFront" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAPFDEi2L+RxH2B4gaMGMoZvgHxIyj7KxCvYGJgmEvADjUoRmafQlMTBLXLFEqbAWlzII4F4hioGIh2YES4LwDJff+B7K9A/AeI/wLxPyD+CMS7mRkY3qL54yeQ/wGIPwHxXqD8Qyz+pDX4ikaTCj4xotLowJcRlUYHsYyoNKlADY3GBerIM55sAPIPITfhAp8IhBmxgFL95AAA4w8eZw==
+  </data>
+ </layer>
+ <layer id="4" name="4-Bottom" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxbycDAsByIVwPxQiBeBMSLgTiRiYFhO5DeDcRLgHgFEG8E4lVQ9looX5kBAn4C8R4GBDgBxF+A+DsQHwHiW0B8Ccq2Y4SoucKACkB21wPtbQDiOiA+BRU/CHXDS6j+E1DxNqAaUwYItgRiMyhtiSRmhcQHydsAsS3IDVA8mAAozLGx0QEo/GBhiA6WoNHkABsoxgVgYY4N1DGh0tjAKQZE3A4GAAorkH8ocRM+/xIDQPkPX5jTCgAA38wnHw==
+  </data>
+ </layer>
+ <layer id="8" name="guide" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFAw0YWSAYBphZMOWR2ejyMHEmqDgLmjwTC6od2MxHxrjkCdlPjPn45GGAVP2jgHwAAICDAMw=
+  </data>
+ </layer>
+</map>
