@@ -274,7 +274,7 @@
          "name":"Outside",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -286,7 +286,7 @@
          "name":"Outside Plants",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -298,7 +298,7 @@
          "name":"Floor and Walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -310,7 +310,7 @@
          "name":"Under furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -322,7 +322,7 @@
          "name":"Furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -334,7 +334,7 @@
          "name":"Over Furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -356,7 +356,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":171.041666666667,
+                 "width":212.375,
                  "x":675.145833333333,
                  "y":2158.5
                 }],
