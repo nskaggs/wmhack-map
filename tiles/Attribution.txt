@@ -4,27 +4,71 @@ License
 CC-BY-SA 3.0:
  - http://creativecommons.org/licenses/by-sa/3.0/
  - See the file: cc-by-sa-3.0.txt
+CC-BY-SA 4.0:
+ - http://creativecommons.org/licenses/by-sa/4.0/
+ - See the file: cc-by-sa-4.0.txt
 GNU GPL 3.0:
  - http://www.gnu.org/licenses/gpl-3.0.html
  - See the file: gpl-3.0.txt
 GNU GPL 2.0:
  - http://www.gnu.org/licenses/gpl-3.0.html
  - See the file: gpl-2.0.txt
+ OGA-BY 3.0
+ - http://static.opengameart.org/OGA-BY-3.0.txt
+ - See the file: OGA-BY-3.0.txt
 
 Note only some files from the entries are selected.
 *Additional license information.
 
 Assets from:
 
+For plants.png, See CREDITS-plants.txt. https://opengameart.org/content/lpc-flowers-plants-fungi-wood
+For rocks.png, See CREDITS-rocks.txt. https://opengameart.org/content/lpc-rocks
+For trees-*.png, See CREDITS-trees.txt. https://opengameart.org/content/lpc-trees
+For fruit-trees.png, See CREDITS-fruit-trees.txt. https://opengameart.org/content/lpc-fruit-trees
+For crops.png, See CREDITS-crops.txt. https://opengameart.org/content/lpc-crops
+
+Tables & Stools v1.2
+Licensing:
+  - OpenGameArt.org Attribution (OGA BY) version 3.0 or later (see: LICENSE-OGA-BY-3.0.txt)
+  - Creative Commons Attribution (CC BY) version 3.0 or later (see: LICENSE-CC-BY-3.0.txt)
+Copyright/Attribution:
+  Created by Jordan Irwin (AntumDeluge)
+Links:
+  - Stendhal: https://stendhalgame.org/
+  - OpenGameArt.org submission: https://opengameart.org/node/20715
+
+"Bench with Flowers" by AntumDeluge. License: CC-BY 3.0 / GPL 3.0. https://opengameart.org/content/bench-with-flowers
+[OpenGameArt.org submission](https://opengameart.org/node/81665)
+#### Source Assets:
+By [bluecarrot16](https://opengameart.org/user/18016):
+- [[LPC] Flowers / Plants / Fungi / Wood](https://opengameart.org/node/80124) (OGA BY 2.0+ / CC BY 2.0+ / GPL 2.0+)
+By Guido Bos:
+- [[LPC] Guido Bos entries cut up](https://opengameart.org/node/11319) (CC BY-SA 3.0 / GPL 3.0)
+By [Hyptosis](https://opengameart.org/user/2937) & [Jordan Irwin (AntumDeluge)](https://opengameart.org/user/5625):
+- [Wooden Bench Rework](https://opengameart.org/node/79117) (CC0)
+By [Jetrel](https://opengameart.org/user/402):
+- [RPG item set](https://opengameart.org/node/4531) (CC0)
+By Kimmo Rundelin (kiheru):
+- [Stendhal](https://github.com/arianne/stendhal/blob/master/tiled/tileset/plant/flower) (CC BY-SA 3.0)
+By [Lanea Zimmerman (Sharm)](https://opengameart.org/user/1727):
+- [LPC: Interior Castle Tiles](https://opengameart.org/node/17021) (OGA BY 3.0 / CC BY 3.0 / CC BY-SA 3.0 / GPL 3.0)
+- [LPC Asset List (victorian furniture and decoration)](http://lpc.opengameart.org/static/lpc-style-guide/assets.html#building-indoors) (CC BY-SA 3.0 / GPL 3.0)
+
+
+"Solarus Fountain" by AntumDeluge. License: CC-BY 4.0 https://opengameart.org/content/solarus-fountain
+"[LPC] Water Fountain" by sharm. License: CC-BY 3.0  https://opengameart.org/content/lpc-water-fountain
+"Bulletin board and items" by bleutailfly. License: OGA-BY 3.0. https://opengameart.org/content/bulletin-board-and-items
+"[LPC] Cats and Dogs" by bluecarrot16 License: CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0 http://opengameart.org/content/lpc-cats-and-dogs
+"LPC Goat" by bluecarrot16. License: CC-BY 3.0 / GPL 2.0+ Based on "LPC Style Farm Animals" by Daniel Eddeland (daneeklu), commissioned by Thomas Bruno (tebruno99). License: CC-BY 3.0 / GPL 2+. http://opengameart.org/content/lpc-style-farm-animals
+"[LPC] Tabletop RPG + pizza" by pennomi. License: CC-BY 3.0 / GPL 3.0 https://opengameart.org/content/lpc-tabletop-rpg-pizza
+
+
+
 LPC contributors:
 ----------------
 
 Barbara Rivera
-
-"LPC Goat" by bluecarrot16. License: CC-BY 3.0 / GPL 2.0+ Based on "LPC Style Farm Animals" by Daniel Eddeland (daneeklu), commissioned by Thomas Bruno (tebruno99). License: CC-BY 3.0 / GPL 2+. http://opengameart.org/content/lpc-style-farm-animals
-
-"[LPC] Tabletop RPG + pizza" by pennomi. License: CC-BY 3.0 / GPL 3.0 https://opengameart.org/content/lpc-tabletop-rpg-pizza
-
 
 Matthew Nash
  http://opengameart.org/content/misc-32x32-tiles
