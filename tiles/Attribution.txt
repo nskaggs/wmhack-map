@@ -22,6 +22,15 @@ Note only some files from the entries are selected.
 
 Assets from:
 
+For wikipedia-logo.png, Wikimedia Foundation, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+For wikimedia-logo.png, Logo designed by User:Neolux., Public domain, via Wikimedia Commons
+For wikidata-logo.png, Planemad, Public domain, via Wikimedia Commons
+For wikisource-logo.png, Nicholas Moreau, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+For mediawiki-logo.png, Serhio Magpie, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+For wikimedia-family-logo.png, Wikimedia Foundation, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+For commons-logo.png, Wikimedia Foundation, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+For map-logo.png, Font Awesome Free 5.2.0 by @fontawesome - https://fontawesome.com, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+For tools-logo.png, BDavis (WMF), JHernandez (WMF), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 For plants.png, See CREDITS-plants.txt. https://opengameart.org/content/lpc-flowers-plants-fungi-wood
 For rocks.png, See CREDITS-rocks.txt. https://opengameart.org/content/lpc-rocks
 For trees-*.png, See CREDITS-trees.txt. https://opengameart.org/content/lpc-trees
