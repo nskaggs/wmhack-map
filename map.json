@@ -215,6 +215,11 @@
                  "value":"{ \"startWithAudioMuted\": true } "
                 }, 
                 {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"volcano"
+                }, 
+                {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Wlecome to hacking room 1. Check the schedule and be aware a session may be occuring."
@@ -241,6 +246,11 @@
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithAudioMuted\": true } "
+                }, 
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"pit"
                 }, 
                 {
                  "name":"jitsiTriggerMessage",
