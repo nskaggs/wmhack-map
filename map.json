@@ -210,29 +210,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true } "
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"volcano"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Welcome to hacking room 1. Check the schedule and be aware a session may be occuring. Click me to join!"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"meet.jit.si\/WMhack2021-Room1"
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -248,29 +233,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true } "
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"pit"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Welcome to hacking room 2. Check the schedule and be aware a session may be occuring. Click me to join!"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"meet.jit.si\/WMhack2021-Room2"
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
