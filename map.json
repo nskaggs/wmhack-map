@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.wikimedia.org\/p\/wmhack2021-Notes?showChat=false&showLineNumbers=false"
+                 "value":"https:\/\/wikitech.wikimedia.org\/wiki\/User_talk:Nskaggs"
                 }],
          "type":"tilelayer",
          "visible":true,
