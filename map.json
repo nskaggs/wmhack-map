@@ -227,7 +227,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Wlecome to hacking room 1. Check the schedule and be aware a session may be occuring. Click me to join!"
+                 "value":"Welcome to hacking room 1. Check the schedule and be aware a session may be occuring. Click me to join!"
                 }, 
                 {
                  "name":"jitsiUrl",
@@ -265,7 +265,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Wlecome to hacking room 2. Check the schedule and be aware a session may be occuring. Click me to join!"
+                 "value":"Welcome to hacking room 2. Check the schedule and be aware a session may be occuring. Click me to join!"
                 }, 
                 {
                  "name":"jitsiUrl",
