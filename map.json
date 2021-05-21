@@ -217,7 +217,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"WMhack2021-Room1"
+                 "value":""
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -232,7 +232,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":"meet.jit.si\/WMhack2021-Room1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -255,7 +255,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"WMhack2021-Room2"
+                 "value":""
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -270,7 +270,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.jit.si"
+                 "value":"meet.jit.si\/WMhack2021-Room2"
                 }],
          "type":"tilelayer",
          "visible":true,
