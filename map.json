@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.twitch.tv\/lucaswerkmeister\/"
+                 "value":"https:\/\/player.twitch.tv\/?channel=lucaswerkmeister&parent=workadventu.re"
                 }],
          "type":"tilelayer",
          "visible":true,
