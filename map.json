@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.wikimedia.org\/p\/wmhack2021-Notes?showChat=false&showLineNumbers=false"
+                 "value":"https:\/\/www.mediawiki.org\/wiki\/Wikimedia_Hackathon_2021\/Discussions"
                 }],
          "type":"tilelayer",
          "visible":true,
