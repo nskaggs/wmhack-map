@@ -30,7 +30,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/phabricator.wikimedia.org\/project\/view\/5303\/"
+                 "value":"https:\/\/www.mediawiki.org\/wiki\/Wikimedia_Hackathon_2021\/How_to#Contribute"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/etherpad.wikimedia.org\/p\/wmhack2021-Notes?showChat=false&showLineNumbers=false"
+                 "value":"https:\/\/www.mediawiki.org\/wiki\/Talk:Wikimedia_Hackathon_2021"
                 }],
          "type":"tilelayer",
          "visible":true,
