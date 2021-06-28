@@ -1,6 +1,3 @@
-# WorkAdventure Map Starter Kit
+[WMHACK 2021](https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2021/) Map, intended to be hosted using [WorkAdventure](https://workadventu.re). See tiles/Attribution.txt for attribution of tiles.
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
-
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
-
+Created using https://github.com/thecodingmachine/workadventure-map-starter-kit
