@@ -584,7 +584,7 @@
                  "y":390.166666666667
                 }, 
                 {
-                 "height":43.9542505406753,
+                 "height":54.2604931790734,
                  "id":26,
                  "name":"",
                  "rotation":0,
@@ -595,9 +595,9 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":132.038616702712,
-                 "x":46.0259974768483,
-                 "y":2158.47865025231
+                 "width":120.996213875857,
+                 "x":37.5601553095927,
+                 "y":2156.27016968694
                 }, 
                 {
                  "height":19,
@@ -718,7 +718,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"Open Hacking Room",
+                     "text":"Open Hacking Room A",
                      "wrap":true
                     },
                  "type":"",
@@ -750,7 +750,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"Open Hacking Room",
+                     "text":"Open Hacking Room 1",
                      "wrap":true
                     },
                  "type":"",
@@ -758,6 +758,24 @@
                  "width":121.155592351522,
                  "x":935.096800397189,
                  "y":396.500600461654
+                }, 
+                {
+                 "height":82.1170606211922,
+                 "id":52,
+                 "name":"",
+                 "rotation":0.027562333555356,
+                 "text":
+                    {
+                     "fontfamily":"Arial",
+                     "pixelsize":8,
+                     "text":"If you notice a dangerous situation, someone in distress, or violations of the Code of Conduct, please report them even if they seem inconsequential.",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":101.309156527943,
+                 "x":156.226191901218,
+                 "y":2147.15326706888
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -777,7 +795,7 @@
          "y":0
         }],
  "nextlayerid":37,
- "nextobjectid":52,
+ "nextobjectid":53,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
