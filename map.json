@@ -568,18 +568,18 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":19,
+                 "height":56.9247572815534,
                  "id":20,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "text":"Pit",
+                     "text":"Open Hacking Room 1",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":92.375,
+                 "width":136.367718446602,
                  "x":937.479166666667,
                  "y":392.5
                 }, 
@@ -598,6 +598,166 @@
                  "width":117.375,
                  "x":177.8125,
                  "y":390.166666666667
+                }, 
+                {
+                 "height":59.8024878640778,
+                 "id":35,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Infrastructure Tools",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":128.988622572816,
+                 "x":941.270251820388,
+                 "y":750.59026092233
+                }, 
+                {
+                 "height":18.84375,
+                 "id":36,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Python",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":89.546875,
+                 "x":944.304232402913,
+                 "y":1099.49802791262
+                }, 
+                {
+                 "height":18.84375,
+                 "id":37,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"MediaWiki",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":89.546875,
+                 "x":941.270251820388,
+                 "y":1454.47375606796
+                }, 
+                {
+                 "height":53.7345266990292,
+                 "id":38,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Wikibase and Wikidata",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":109.267748786408,
+                 "x":44.728989684466,
+                 "y":1454.47375606796
+                }, 
+                {
+                 "height":50.7005461165047,
+                 "id":39,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Localization and Small Wikis",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":165.396389563107,
+                 "x":50.7969508495146,
+                 "y":1105.56598907767
+                }, 
+                {
+                 "height":47.6665655339806,
+                 "id":40,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Community Building",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":130.505612864078,
+                 "x":44.728989684466,
+                 "y":753.624241504854
+                }, 
+                {
+                 "height":59.8024878640779,
+                 "id":41,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Welcome Newcomers!",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":121.403671116505,
+                 "x":945.821222694175,
+                 "y":1809.4494842233
+                }, 
+                {
+                 "height":56.7685072815534,
+                 "id":42,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Open Hacking Room A",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":122.920661407767,
+                 "x":47.7629702669903,
+                 "y":1806.41550364078
+                }, 
+                {
+                 "height":62.8364684466019,
+                 "id":43,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Help and Moderation",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":145.675515776699,
+                 "x":41.6950091019417,
+                 "y":2158.35725121359
+                }, 
+                {
+                 "height":18.84375,
+                 "id":44,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Cantina",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":89.546875,
+                 "x":951.889183859223,
+                 "y":2158.35725121359
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -606,7 +766,7 @@
          "y":0
         }],
  "nextlayerid":34,
- "nextobjectid":35,
+ "nextobjectid":45,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
