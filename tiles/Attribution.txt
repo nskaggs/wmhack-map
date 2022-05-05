@@ -32,6 +32,9 @@ For commons-logo.png, Wikimedia Foundation, CC BY-SA 3.0 <https://creativecommon
 For docs-logo.png,Lea Lacroix (WMDE), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 For map-logo.png, Font Awesome Free 5.2.0 by @fontawesome - https://fontawesome.com, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
 For tools-logo.png, BDavis (WMF), JHernandez (WMF), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+For Small_wiki_toolkits_project_logo.png, Sethiastha, Public domain, via Wikimedia Commons
+For Wikimedia_Gerrit_community_logo.png, Tyler Cipriani, Public domain, via Wikimedia Commons
+For Pywikibot_Alternative_Logo.png, Gallaecio, via Wikimedia Commons
 For plants.png, See CREDITS-plants.txt. https://opengameart.org/content/lpc-flowers-plants-fungi-wood
 For rocks.png, See CREDITS-rocks.txt. https://opengameart.org/content/lpc-rocks
 For trees-*.png, See CREDITS-trees.txt. https://opengameart.org/content/lpc-trees
