@@ -22,7 +22,7 @@
                  "value":"https:\/\/player.twitch.tv\/?channel=lucaswerkmeister&parent=play.workadventu.re"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
                  "value":"https:\/\/www.mediawiki.org\/wiki\/Wikimedia_Hackathon_2021\/How_to#Contribute"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
                  "value":"https:\/\/www.mediawiki.org\/wiki\/Wikimedia_Hackathon_2021\/Schedule"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
                  "value":"https:\/\/www.mediawiki.org\/wiki\/Wikimedia_Hackathon_2021\/How_to"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
                  "value":"https:\/\/www.mediawiki.org\/wiki\/Wikimedia_Hackathon_2021\/Discussions"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":"https:\/\/www.mediawiki.org\/wiki\/Wikimedia_Hackathon_2021\/Participants"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -130,7 +130,7 @@
                  "value":"https:\/\/www.youtube-nocookie.com\/embed\/XEm_fI1x5-w"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -148,7 +148,7 @@
                  "value":"https:\/\/www.youtube-nocookie.com\/embed\/VujfdGnUnp0"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -413,7 +413,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -425,7 +425,7 @@
          "name":"Outside",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -437,7 +437,7 @@
          "name":"Under Outside Plants",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -449,7 +449,7 @@
          "name":"Outside Plants",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -461,7 +461,7 @@
          "name":"Over Outside Plants",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -473,7 +473,7 @@
          "name":"forest1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -485,7 +485,7 @@
          "name":"forest2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -497,7 +497,7 @@
          "name":"forest3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -509,7 +509,7 @@
          "name":"forest4",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -521,7 +521,7 @@
          "name":"Floor and Walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -533,7 +533,7 @@
          "name":"Under furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -545,7 +545,7 @@
          "name":"Furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -557,7 +557,7 @@
          "name":"Over Furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
