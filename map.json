@@ -17,11 +17,6 @@
          "opacity":0.87,
          "properties":[
                 {
-                 "name":"Type",
-                 "type":"string",
-                 "value":"are"
-                }, 
-                {
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithAudioMuted\": true } "
