@@ -17,7 +17,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/phabricator.wikimedia.org\/project\/board\/5802\/"
                 }],
@@ -537,7 +537,7 @@
          "name":"Over Outside Plants",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -843,7 +843,7 @@
                  "text":
                     {
                      "bold":true,
-                     "color":"#a8108001",
+                     "color":"#108001",
                      "fontfamily":"Snell Roundhand",
                      "halign":"center",
                      "italic":true,
@@ -872,27 +872,6 @@
                  "width":89.546875,
                  "x":603.933465254314,
                  "y":2244.93990265754
-                }, 
-                {
-                 "height":106.538233734088,
-                 "id":60,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#666666",
-                     "fontfamily":"Marker Felt",
-                     "halign":"center",
-                     "italic":true,
-                     "pixelsize":24,
-                     "text":"Welcome to the Wikimedia Hackathon!",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":215.430891973126,
-                 "x":901.932625320579,
-                 "y":2069.5417610054
                 }, 
                 {
                  "height":18.84375,
@@ -1263,14 +1242,14 @@
                      "halign":"center",
                      "italic":true,
                      "pixelsize":12,
-                     "text":"Showcase Room Opening Ceremonies",
+                     "text":"Showcase Room         Closing Ceremony",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":99.4476,
-                 "x":877.646416914453,
-                 "y":2294.40216785279
+                 "width":198.346458075041,
+                 "x":822.589320666492,
+                 "y":2293.38259199635
                 }, 
                 {
                  "height":18.84375,
@@ -1287,6 +1266,27 @@
                  "width":169.084112888648,
                  "x":1287.11376423536,
                  "y":54.2079153109183
+                }, 
+                {
+                 "height":27.3302,
+                 "id":83,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#666666",
+                     "fontfamily":"Marker Felt",
+                     "halign":"center",
+                     "italic":true,
+                     "pixelsize":12,
+                     "text":"Entrance",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":128.694,
+                 "x":863.467029363785,
+                 "y":2485.31532414356
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1295,7 +1295,7 @@
          "y":0
         }],
  "nextlayerid":39,
- "nextobjectid":83,
+ "nextobjectid":84,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
