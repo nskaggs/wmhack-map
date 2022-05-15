@@ -166,11 +166,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Hacking Room A"
@@ -179,6 +174,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -194,11 +194,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Showcase"
@@ -207,6 +202,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -222,11 +222,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Wikibase and Wikidata"
@@ -235,6 +230,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -250,11 +250,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Localization and Small Wikis"
@@ -263,6 +258,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -278,11 +278,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Community Building"
@@ -291,6 +286,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -306,11 +306,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"South Pole"
@@ -319,6 +314,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -334,11 +334,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Hacking Room 1"
@@ -347,6 +342,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -362,11 +362,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Infrastructure Tools"
@@ -375,6 +370,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -390,11 +390,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Python"
@@ -403,6 +398,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -418,11 +418,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MediaWiki"
@@ -431,6 +426,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -446,11 +446,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Newcomers"
@@ -459,6 +454,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -474,11 +474,6 @@
                  "opacity":0.87,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Help Room"
@@ -487,6 +482,11 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"helper"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -501,11 +501,6 @@
                  "name":"jitsicantina",
                  "opacity":1,
                  "properties":[
-                        {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
