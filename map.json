@@ -230,7 +230,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/watch?v=eHjdMDNybtA"
+                         "value":"https:\/\/www.youtube.com\/watch?v=xkvyettxq-w"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -268,6 +268,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Hacking Room A"
@@ -295,6 +300,11 @@
                  "name":"jitsishowcase",
                  "opacity":1,
                  "properties":[
+                        {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -324,6 +334,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Wikibase and Wikidata"
@@ -351,6 +366,11 @@
                  "name":"jitsilocalization",
                  "opacity":1,
                  "properties":[
+                        {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -380,6 +400,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Community Building"
@@ -407,6 +432,11 @@
                  "name":"jitsiroomsouthpole",
                  "opacity":1,
                  "properties":[
+                        {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -436,6 +466,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Hacking Room 1"
@@ -463,6 +498,11 @@
                  "name":"jitsiinfrastructure",
                  "opacity":1,
                  "properties":[
+                        {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -492,6 +532,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Python"
@@ -519,6 +564,11 @@
                  "name":"jitsimediawiki",
                  "opacity":1,
                  "properties":[
+                        {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -548,6 +598,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Newcomers"
@@ -575,6 +630,11 @@
                  "name":"jitsihelp",
                  "opacity":0.87,
                  "properties":[
+                        {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
