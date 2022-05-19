@@ -23,11 +23,6 @@
                          "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/phabricator.wikimedia.org\/project\/board\/5802\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -43,7 +38,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/query.wikidata.org\/#%23%20By%20So9q%0A%23%20Lexemes%20that%20means%20%28liquid%29%20water%0Aselect%20%3Fl%20%3Fsense%20%3Flemma%20%3FlanguageLabel%20WHERE%20%7B%0A%20%20%3Fl%20a%20ontolex%3ALexicalEntry%20%3B%20%23%20get%20from%20the%20special%20LexicalEntry%0A%20%20%20%20%20%20%20ontolex%3Asense%20%3Fsense%20%3B%20%23%20the%20sense%0A%20%20%20%20%20%20%20dct%3Alanguage%20%3Flanguage%20%3B%20%23%20the%20language%0A%20%20%20%20%20%20%20wikibase%3Alemma%20%3Flemma.%20%23%20and%20the%20lemma%0A%20%20%3Fsense%20wdt%3AP5137%20wd%3AQ29053744%20.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20change%20Q29053744%20to%20anything%20you%20want%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A%23%20Lower%20case%20before%20order%0Aorder%20by%20%28LCASE%28%3FlanguageLabel%29%29"
                         }],
@@ -61,7 +56,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/freemusicarchive.org\/about\/"
                         }],
@@ -79,7 +74,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/wikidata-game.toolforge.org\/distributed\/"
                         }],
@@ -115,7 +110,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/ludokultur.itch.io\/wikiarena"
                         }],
@@ -133,7 +128,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/guessr.blinry.org\/"
                         }],
@@ -233,9 +228,9 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/watch?v=DNVmOvqjjcI"
+                         "value":"https:\/\/www.youtube.com\/embed\/DNVmOvqjjcI"
                         }],
                  "type":"tilelayer",
                  "visible":true,
