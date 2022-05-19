@@ -268,11 +268,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \n\n  \"toolbarButtons\": [\n\n        \"select-background\",\n\n        \"microphone\",\n\n        \"camera\",\n\n        \"closedcaptions\",\n\n        \"desktop\",\n\n        \"fullscreen\",\n\n        \"fodeviceselection\",\n\n        \"hangup\",\n\n        \"profile\",\n\n        \"chat\",\n\n        \"recording\",\n\n        \"livestreaming\",\n\n        \"etherpad\",\n\n        \"sharedvideo\",\n\n        \"settings\",\n\n        \"raisehand\",\n\n        \"videoquality\",\n\n        \"filmstrip\",\n\n        \"feedback\",\n\n        \"stats\",\n\n        \"shortcuts\",\n\n        \"tileview\",\n\n        \"videobackgroundblur\",\n\n        \"download\",\n\n        \"help\",\n\n        \"mute-everyone\"\n\n  ]\n\n} \n\n"
-                        }, 
-                        {
                          "name":"jitsiNoPrefix",
                          "type":"bool",
                          "value":true
