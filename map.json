@@ -606,7 +606,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"\"toolbarButtons\": ['select-background', 'closedcaptions'],"
+                         "value":"{\n\t\"toolbarButtons\": [\"select-background\", \"closedcaptions\"]\n}"
                         }, 
                         {
                          "name":"jitsiRoom",
