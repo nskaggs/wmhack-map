@@ -893,7 +893,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/www.mediawiki.org\/w\/index.php?title=Wikimedia_Hackathon_2022\/Participants\/Map&action=edit"
+                         "value":"https:\/\/www.mediawiki.org\/wiki\/Wikimedia_Hackathon_2022\/Participants\/Map"
                         }],
                  "type":"tilelayer",
                  "visible":true,
