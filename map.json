@@ -23,6 +23,11 @@
                          "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/phabricator.wikimedia.org\/project\/board\/5802\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
