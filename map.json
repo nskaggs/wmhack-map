@@ -606,7 +606,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{\n\t\"toolbarButtons\": [\"select-background\", \"closedcaptions\"]\n}"
+                         "value":"{\n\t\"toolbarButtons\": [\"select-background\", \"chat\", \"camera\", \"microphone\", \"participants-pane\", \"raisehand\", \"settings\", \"tileview\", \"closedcaptions\"]\n}"
                         }, 
                         {
                          "name":"jitsiRoom",
