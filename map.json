@@ -1560,6 +1560,23 @@
                  "width":169.084112888648,
                  "x":1287.11376423536,
                  "y":54.2079153109183
+                }, 
+                {
+                 "height":99.6812798171218,
+                 "id":85,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "halign":"center",
+                     "text":"Welcome!  \nTo move around,  use the arrows on your keyboard.\nOn mobile,  touch where you want to go.",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":206.164950801749,
+                 "x":483.983519828386,
+                 "y":2320.28923022131
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1568,7 +1585,7 @@
          "y":0
         }],
  "nextlayerid":73,
- "nextobjectid":85,
+ "nextobjectid":86,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
