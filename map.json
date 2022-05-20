@@ -351,9 +351,9 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"disableChatSmileys",
-                         "type":"bool",
-                         "value":true
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{\n\t\"disableChatSmileys\": true\n}"
                         }, 
                         {
                          "name":"jitsiNoPrefix",
