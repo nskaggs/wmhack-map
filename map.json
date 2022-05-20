@@ -267,6 +267,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.youtube.com\/embed\/DNVmOvqjjcI"
+                        }, 
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -280,6 +285,12 @@
                  "id":33,
                  "name":"youtubeclosing",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":100,
