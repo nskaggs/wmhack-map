@@ -20,17 +20,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"Type",
-                         "type":"string",
-                         "value":"website"
-                        }, 
-                        {
-                         "name":"allowApi",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"url",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/web.libera.chat\/?#wikimedia-hackathon"
                         }],
