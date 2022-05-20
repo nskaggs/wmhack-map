@@ -351,6 +351,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"disableChatSmileys",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiNoPrefix",
                          "type":"bool",
                          "value":true
